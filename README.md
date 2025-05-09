@@ -31,8 +31,8 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://www.linkedin.com/in/david-danillo-gomes-5b1a4935b/)
-[![Email](daviddanillo07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-danillo-gomes-5b1a4935b/)
+[![Email](https://img.shields.io/badge/Email-daviddanillo07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviddanillo07@gmail.com)
 
 -------------
 
